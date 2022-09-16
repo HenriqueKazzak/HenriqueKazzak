@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henrique Mendes</h1>
 <h3 align="center">An RPA developer from Brazil and looking for .NET or Java Development</h3>
 
-- 🔭 I’m working at **Certsys** and looking for new opportunities with Java
+- 🔭 I’m working at **Certsys** and looking for **new opportunities with Java**
 
 - 📚 I'm a student at **IFSC - Instituto Federal de Santa Catarina**
 
