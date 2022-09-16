@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Henrique Mendes</h1>
 <h3 align="center">An RPA developer from Brazil and looking for .NET or Java Development</h3>
 
-- 🔭 I’m working at **Certsys**
+- 🔭 I’m working at **Certsys** and looking for new opportunities with Java
 
 - 📚 I'm a student at **IFSC - Instituto Federal de Santa Catarina**
 
-- 🌱 I’m learning **Java, C# and Android Development**
+- 🌱 I’m learning **Java, Spring Framework, Android SDK and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HenriqueKazzak/Portfolio](https://github.com/HenriqueKazzak/Portfolio)
 
