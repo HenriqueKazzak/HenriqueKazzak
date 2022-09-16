@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henrique Mendes</h1>
-<h3 align="center">An RPA developer from Brazil and looking for .NET or Java Development</h3>
+<h3 align="center">An RPA developer from Brazil and looking for Java Development</h3>
 
 - 🔭 I’m currently working on **Certsys**
 
