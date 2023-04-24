@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Henrique Mendes</h1>
-<h3 align="center">An RPA developer from Brazil and looking for Java Development</h3>
+<h3 align="center">An Java developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Certsys**
+- 🔭 I’m currently working on **Capgemini**
 
-- 🌱 I’m currently learning **Java, Spring, Android SDK and Flutter**
+- 🌱 I’m currently learning **Kafka, Azure and Hexagonal Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HenriqueKazzak/Portfolio](https://github.com/HenriqueKazzak/Portfolio)
 
