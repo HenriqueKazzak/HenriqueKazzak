@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Capgemini**
 
-- 🌱 I’m currently learning **Kafka, Azure and Hexagonal Architecture**
+- 🌱 I’m work with **Kafka, Azure, Hexagonal Architecture, SRE, Dynatrace, Spring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HenriqueKazzak/Portfolio](https://github.com/HenriqueKazzak/Portfolio)
 
