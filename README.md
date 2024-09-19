@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Henrique Mendes</h1>
 <h3 align="center">An Java developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Capgemini**
+- 🔭 I’m currently working on **Banco BV**
 
-- 🌱 I’m work with **Kafka, Azure, Hexagonal Architecture, SRE, Dynatrace, Spring**
+- 🌱 I’m work with **Kafka, GCP, Spanner, Hexagonal Architecture, SRE, Dynatrace, Spring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HenriqueKazzak/Portfolio](https://github.com/HenriqueKazzak/Portfolio)
 
